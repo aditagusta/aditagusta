@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just Backend For Have Fun
+Backend For Fun
 
 
 ## 🌐 Socials:
